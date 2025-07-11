@@ -1,6 +1,7 @@
 # Snake Game 🐍
 
-This is a simple ai snake game using Greedy algorithm.
+This is a simple ai snake game using Greedy algorithm. 
+If you want to control manually, you can adjust the ai_moving() in snake.cpp, I had already written.
 
 ## Intro
 
